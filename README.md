@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/projectmanager-fc5e1.appspot.com/o/pattern-randomized.png?alt=media&token=28c39ade-87ea-44c4-ad95-83921e5fa796)](https://firebasestorage.googleapis.com/v0/b/projectmanager-fc5e1.appspot.com/o/pattern-randomized.png?alt=media&token=28c39ade-87ea-44c4-ad95-83921e5fa796)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/projectmanager-fc5e1.appspot.com/o/resize-1729176250862046190patternrandomized.png?alt=media&token=dadda253-f9ec-4e6b-80c7-b4b0d70e094a)](https://firebasestorage.googleapis.com/v0/b/projectmanager-fc5e1.appspot.com/o/resize-1729176250862046190patternrandomized.png?alt=media&token=dadda253-f9ec-4e6b-80c7-b4b0d70e094a)
 <h1 align="center">Hi 👋, I'm Samarth Badadhe</h1>
 <h3 align="center">Full-stack Developer | Problem Solver | Enthusiast Web and DevOps Technologies from India</h3>
 
