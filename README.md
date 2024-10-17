@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc93G-imIa1bod1o14Uk10KhQ2CRExJ4DYuw&s)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc93G-imIa1bod1o14Uk10KhQ2CRExJ4DYuw&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc93G-imIa1bod1o14Uk10KhQ2CRExJ4DYuw&s)
 <h1 align="center">Hi 👋, I'm Samarth Badadhe</h1>
 <h3 align="center">Full-stack Developer | Problem Solver | Enthusiast Web and DevOps Technologies from India</h3>
 
