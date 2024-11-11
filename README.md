@@ -1,12 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Samarth Badadhe</h1>
 <h3 align="center">Full-stack Developer | Problem Solver | Enthusiast Web and DevOps Technologies from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 📫 How to reach me **samarthbadadhe81@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/samarth-badadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-badadhe" height="30" width="40" /></a>
+<a href="https://instagram.com/samarthbadadhe45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthbadadhe45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samarthb_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthb_27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
