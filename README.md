@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
    <img src="https://user-images.githubusercontent.com/5418178/177059352-fe91dcd5-e17b-4103-88ae-70d6d396cf85.png" alt="JWT" width="40" height="40" style="margin-right: 10px;" />
-   <img src="https://avatars.githubusercontent.com/u/130129149?s=48&v=4" alt="Websocket" width="40" height="40" style="margin-right: 10px;" />
+   <img src="https://pics.freeicons.io/uploads/icons/png/6158480871552037069-512.png" alt="Websocket" width="40" height="40" style="margin-right: 10px;" />
     
 </div>
 
