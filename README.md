@@ -52,7 +52,7 @@
 
 ### Backend Alchemy
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <p>JWT|WebSockets|Queues|Pub/Sub|Rate Limiting</p>
+  <p>JWT | WebSockets | Queues | Pub/Sub | Rate Limiting</p>
  
   
 </div>
